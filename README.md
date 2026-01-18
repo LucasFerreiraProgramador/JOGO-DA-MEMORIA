@@ -1,16 +1,14 @@
-# Jogo da Memória
+# Oi, tudo bem?
 
 Projeto de prática pessoal desenvolvido por **Lucas Ferreira Silva**,
 estudante de **Análise e Desenvolvimento de Sistemas**.
 
-## Sobre o projeto
-Jogo da memória desenvolvido com HTML, CSS e JavaScript,
-com foco em lógica de programação, manipulação do DOM e interações do usuário.
+Esse é o repositório da nossa aula de Javascript do site Digital Innovation, na qual vamos fazer um jogo da memória com a temática de Super Mario!
 
-## Tecnologias utilizadas
-- HTML5
-- CSS3
-- JavaScript
+## Os requisitos são
+HTML básico
+CSS básico
+Javascript básico
 
-## Finalidade
-Projeto demonstrativo para portfólio.
+## 🚀 Let's code! 🚀
+
