@@ -1,9 +1,28 @@
-# Oi, tudo bem?
+# 🧠 Jogo da Memória
 
-Projeto de prática pessoal desenvolvido por **Lucas Ferreira Silva**,
-estudante de **Análise e Desenvolvimento de Sistemas**.
+Um jogo da memória interativo desenvolvido com foco em lógica de programação, manipulação de DOM e experiência do usuário.  
+O objetivo é encontrar todos os pares de cartas no menor número de jogadas possível.
 
-Esse é o repositório da nossa aula de Javascript do site Digital Innovation, na qual vamos fazer um jogo da memória com a temática de Super Mario!
+🔗 **Acesse o projeto:**  
+https://lucasferreiraprogramador.github.io/JOGO-DA-MEMORIA/
+
+---
+
+## 🚀 Funcionalidades
+
+- 🎮 **Sistema de cartas dinâmico:** embaralhamento automático a cada partida.
+- 🧠 **Lógica de verificação de pares:** validação em tempo real das jogadas.
+- 🔄 **Reinício rápido:** opção de reset sem recarregar a página.
+- 📱 **Layout responsivo:** funciona bem em desktop e mobile.
+- ⚡ **Interação fluida:** feedback visual nas cartas selecionadas.
+
+---
+
+## 💻 Tecnologias Utilizadas
+
+- **HTML5** → estrutura semântica  
+- **CSS3** → layout responsivo e animações  
+- **JavaScript (Vanilla)** → lógica do jogo e manipulação de DOM  
 
 ## Os requisitos são
 HTML básico
@@ -11,4 +30,3 @@ CSS básico
 Javascript básico
 
 ## 🚀 Let's code! 🚀
-
